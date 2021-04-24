@@ -4,9 +4,7 @@ A set of tools that helps to synchronize a Django base authentication, with a fi
 
 ## Initialization
 
-Initia
-
-llize a Django App using the Firebase Class. 
+Initiallize a Firebase App using the FirebaseApp Class. 
 
 ```python
 from firebase_sync import FirebaseApp 
